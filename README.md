@@ -10,4 +10,4 @@ this following text can guid you to run this project on your own device :
 
 1) install required packages ( library )
 2) open file with your IDE ( movement-detector.py )
-3) run or use this command in you **python movement-detector.py** !
+3) run or use this command in you **python movement-detector.py**
